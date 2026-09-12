@@ -136,8 +136,16 @@ Mansoory, M. S., Faramarzi, A., Khoshgard, K., & Mozafari, H. (2020).
 
 *Avicenna Journal of Medical Biotechnology, 12(2), 107–115.*
 
+[Read the article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7229458/)
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/32431795/)
+
 ## Author
 
 **Ayob Faramarzi**
 
 Biomedical Engineering | Neuroimaging | fMRI | MRS | Brain Connectivity | Machine Learning
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=1uivc_4AAAAJ)
+
+[LinkedIn](https://www.linkedin.com/in/ayob-faramarzi/)
