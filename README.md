@@ -2,6 +2,10 @@
 
 ## Multivoxel Magnetic Resonance Spectroscopy Analysis of Metabolite Patterns Associated with Glioblastoma Multiforme
 
+![Study summary](figures/research-summary.svg)
+
+*Original visual summary based on the published study; AUC values are taken from the reported diagnostic analysis.*
+
 This repository presents a research project investigating metabolic differences between tumoral and normal brain voxels in patients with glioblastoma multiforme (GBM) using multivoxel magnetic resonance spectroscopy (MRS).
 
 The study focused on the analysis of brain metabolites and metabolite ratios that may help differentiate tumoral from normal brain voxels.
@@ -92,7 +96,9 @@ Higher levels in tumoral voxels were observed for:
 - Lac/NAA
 - Gln/Glu
 
-The Pcho/Cr ratio showed the highest diagnostic value among the evaluated parameters, with an area under the ROC curve (AUC) of 0.915.
+The Pcho/Cr ratio showed the highest diagnostic value among the evaluated parameters, with an area under the ROC curve (AUC) of 0.915, sensitivity of 83.3%, and specificity of 97.1%.
+
+Pcho/NAA and NAAG also showed relatively high diagnostic performance, with AUC values of 0.879 and 0.845, respectively.
 
 ## Research Workflow
 
@@ -103,6 +109,8 @@ MRS Region Determination
         ↓
 SIVIC Processing
         ↓
+Water Suppression
+        ↓
 Metabolite Signal Fitting
         ↓
 TARQUIN / LCModel
@@ -111,7 +119,7 @@ Metabolite Quantification
         ↓
 MATLAB Numerical Integration
         ↓
-Statistical Analysis
+Statistical Analysis in SPSS
         ↓
 Tumoral vs. Normal Voxels
         ↓
@@ -134,11 +142,10 @@ Mansoory, M. S., Faramarzi, A., Khoshgard, K., & Mozafari, H. (2020).
 
 **Analysis of Glioblastoma Multiforme Tumor Metabolites Using Multivoxel Magnetic Resonance Spectroscopy.**
 
-*Avicenna Journal of Medical Biotechnology, 12(2), 107–115.*
+*Avicenna Journal of Medical Biotechnology, 12*(2), 107–115.
 
-[Read the article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7229458/)
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/32431795/)
+- [Read the article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7229458/)
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/32431795/)
 
 ## Author
 
