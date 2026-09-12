@@ -2,7 +2,7 @@
 
 ## Multivoxel Magnetic Resonance Spectroscopy Analysis of Metabolite Patterns Associated with Glioblastoma Multiforme
 
-![Study summary](figures/research-summary.svg)
+![Study summary](research-summary.svg)
 
 *Original visual summary based on the published study; AUC values are taken from the reported diagnostic analysis.*
 
@@ -50,6 +50,7 @@ The analyzed metabolites included:
 - NAA
 - Phosphocholine (Pcho)
 - Creatine (Cr)
+- Alanine (Ala)
 - Lactate (Lac)
 - Glutamine (Gln)
 - Glutamate (Glu)
