@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated publication."
+title: "Analysis of Glioblastoma Multiforme Tumor Metabolites Using Multivoxel Magnetic Resonance Spectroscopy"
+authors:
+  - family-names: Siyah Mansoory
+    given-names: Meysam
+  - family-names: Faramarzi
+    given-names: Ayob
+  - family-names: Khoshgard
+    given-names: Karim
+  - family-names: Mozafari
+    given-names: Hadi
+volume: 12
+year: 2020
